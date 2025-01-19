@@ -50,7 +50,7 @@ Requisitos
 1. Certifique-se de ter o **.NET SDK** instalado na sua máquina.
 2. Clone o repositório do projeto:
    ```bash
-   git clone <https://github.com/SDDCA/LHPet-MVC>
+   git clone <(https://github.com/SDDCA/LHPet-MVC.git)>
    
 3. Navegue até o diretório do projeto:
    ```bash
